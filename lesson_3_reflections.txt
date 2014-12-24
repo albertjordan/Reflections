@@ -1,1 +1,16 @@
 this is the reflections file for the 3rd lesson created on Git Hub
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+you don't want to over write changes you have made to your local directory....
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+
+Fork is similar to a clone, except it happens on git hub.  
+
+clone gets a specific branch and replicates on the target directory
+
+Branch is creating a new path where you can experiment on things or add new features.  
